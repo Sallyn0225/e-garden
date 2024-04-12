@@ -1,9 +1,16 @@
 ---
 title: 【攻略向/长文】如何从零开始跑一次现地live
 date: 2023-12-25 20:00:00
+tags:
+- 演唱会
+- 旅行
+- 生活
+categories:
+- 实用
 description: 
 draft: 
 kewords: 
+ShowToc: true
 ---
 
 # 前言

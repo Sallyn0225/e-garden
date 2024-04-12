@@ -11,7 +11,6 @@ cover:
 ShowToc: true
 tags:
 - 动漫
-- 二次元
 categories:
 - 实用
 ---

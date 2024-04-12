@@ -4,6 +4,12 @@ date: 2023-12-24 19:30:29
 description: 
 draft: 
 kewords: 
+tags:
+- 演唱会
+- repo
+categories:
+- 杂谈
+ShowToc: true
 ---
 
 昨晚是冬至的后一日，想到晚上6点便是国内柿子配信开始的时间，于是草草把汤圆煮了趁还有10分钟的时候开始蹲守油管直播间。

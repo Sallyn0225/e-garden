@@ -42,10 +42,6 @@ params: #主页设置
   ShowShareButtons: true #底部显示分享图标
   ShowReadingTime: true #显示阅读时间
   ShowBreadCrumbs: true #类似文件夹的路径显示格式
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content" #在这里可以填写github地址
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
   ShowPostNavLinks: true #显示上一篇下一篇切换按钮
   author: ["咲凌"]
   comments: true #开启评论功能

@@ -4,6 +4,11 @@ date: 2023-12-29 17:00:00
 description: 
 draft: 
 kewords: 
+tags:
+- 周报
+categories:
+- 码凌书片
+ShowToc: true
 ---
 
 忙碌的一周总算过去——我很想自豪的这么说，但是我很清楚我是一个连这周发生了什么事都不记得的人，所以还是算了。
