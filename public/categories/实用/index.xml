@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>实用 on 咲凌的数字花园</title>
-    <link>http://localhost:1313/categories/%E5%AE%9E%E7%94%A8/</link>
+    <link>https://sallyn.netlify.app/categories/%E5%AE%9E%E7%94%A8/</link>
     <description>Recent content in 实用 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Copyright@[咲凌](https://space.bilibili.com/85829166)</copyright>
     <lastBuildDate>Sat, 06 Apr 2024 12:15:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E5%AE%9E%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sallyn.netlify.app/categories/%E5%AE%9E%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GBC第一话 圣地考究（非完整版）</title>
-      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
+      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
       <pubDate>Sat, 06 Apr 2024 12:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
+      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
       <description>东京站 开头我们的女主一觉醒来，发现自己睡过了头，本来应该在品川下车的，结果一口气坐到了东京站。
 这个时候女主还想着去横滨。东京站去横滨，需要乘坐浅蓝色的JK线。但是女主看错了，坐上了深蓝色的JO线。深蓝色的JO线其实也可以到横滨，但是女主上错了方向。
 这个是正确路线
@@ -51,9 +51,9 @@ mmk的家我也没搜到究竟是在什么地方，特征实在太少了。唯�
     </item>
     <item>
       <title>怎样提高VRChat的游玩体验</title>
-      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
+      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
       <pubDate>Wed, 27 Dec 2023 19:55:47 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
+      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
       <description>引言 临近23年年末，突然发现自己的VRChat游玩已经过去了一年的时间。
 虽说今年下半年几乎一直在打CS2，但是自己的VRChat游戏时长也有接近1600小时了。说多不多，说少不少。刚好年末，把自己之前游玩的一个流程记录一下。所谓create, share, play是VRChat的slogen，那么现在该回到share和create的环节了
 我想从大概两个部分开始说起，一个是游戏内部的一些设置，有的可以提升你的游戏体验，有的则是藏的比较深的功能开关。另一个是第三方的软件，可以让你游玩时候的体验能够更上一层楼
@@ -94,9 +94,9 @@ Yukarinette Connector Neo 官网
     </item>
     <item>
       <title>【攻略向/长文】如何从零开始跑一次现地live</title>
-      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
+      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
       <pubDate>Mon, 25 Dec 2023 20:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
+      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
       <description>前言 本篇文章旨在根据已有的攻略上，进行整合和小更新，让第一次跑live的朋友们有一个大致的了解。半攻略和半记录是因为主笔并没有实际跑过现地，只是基于在疫情后跑过现地的朋友提供的信息对原有的攻略进行一定程度的完善和整合。欢迎真正跑过现地的佬进行纠正。
 流程 本文将分为以下几个方面进行介绍
 相关证件的准备工作
