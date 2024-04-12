@@ -5,7 +5,7 @@ description:
 draft: 
 kewords: 
 cover: 
-    image: https://s2.loli.net/2024/04/12/vdsFnlk8hEG6upi.png
+    image: https://s2.loli.net/2024/04/12/iLjQgZTnFseMqwf.webp
     alt: GBC第一话 圣地考究
     caption: GBC第一话 圣地考究
 ShowToc: true
