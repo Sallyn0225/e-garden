@@ -1,7 +1,7 @@
 baseURL: "https://sallyn.netlify.app/"
 title: 咲凌的数字花园
 paginate: 10
-theme: PaperMod
+theme: papermod
 languageCode: zh-cn
 
 enableRobotsTXT: true
