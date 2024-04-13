@@ -68,6 +68,8 @@ params: #主页设置
   showtoc: true
   # 字数统计，目前有问题 ShowWordCount: false 
   UseHugoToc: true
+  hideDescription: true
+  hideSummary: true
 
 outputs: #搜索页面
   home:
