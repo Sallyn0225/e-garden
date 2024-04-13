@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>游戏 on 咲凌的数字花园</title>
-    <link>https://sallyn.netlify.app/tags/%E6%B8%B8%E6%88%8F/</link>
+    <link>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</link>
     <description>Recent content in 游戏 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
     <lastBuildDate>Thu, 28 Dec 2023 16:50:51 +0000</lastBuildDate>
-    <atom:link href="https://sallyn.netlify.app/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>玩了一年VRChat的小记</title>
-      <link>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/vrchat-timeline/</link>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/vrchat-timeline/</link>
       <pubDate>Thu, 28 Dec 2023 16:50:51 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/vrchat-timeline/</guid>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/vrchat-timeline/</guid>
       <description>序 2022年末，依旧是新冠肆虐的时候。没有记错的话，当时的我应该已经提前回到了家。也不知道是出于何种理由——或许是练习口语，我记不得了，记性差毕竟是老毛病，下载了个桌面版的VRChat和高中的朋友们一块玩了玩。
 说是玩，其实也压根没有怎么玩。只不过是开了个私人房间一块看了会孤独摇滚罢了。说起来到现在我还是没能放下成见去看孤独摇滚，看来我大抵是已经过了看轻百的年纪。
 虽然之后的日子里几位友人都各有各自的事情要忙你们怎么都打单机去了，但我一个人摸索摸索依旧在玩，这便是这一年的开始。
@@ -56,9 +56,9 @@ humm，虽然现在看来这张照片里的大部分人都发生了……怎么�
     </item>
     <item>
       <title>怎样提高VRChat的游玩体验</title>
-      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
       <pubDate>Wed, 27 Dec 2023 19:55:47 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
       <description>引言 临近23年年末，突然发现自己的VRChat游玩已经过去了一年的时间。
 虽说今年下半年几乎一直在打CS2，但是自己的VRChat游戏时长也有接近1600小时了。说多不多，说少不少。刚好年末，把自己之前游玩的一个流程记录一下。所谓create, share, play是VRChat的slogen，那么现在该回到share和create的环节了
 我想从大概两个部分开始说起，一个是游戏内部的一些设置，有的可以提升你的游戏体验，有的则是藏的比较深的功能开关。另一个是第三方的软件，可以让你游玩时候的体验能够更上一层楼
