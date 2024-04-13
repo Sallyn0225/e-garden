@@ -2,7 +2,7 @@ baseURL: https://sallyn.netlify.app
 languageCode: zh
 title: 咲凌的数字花园
 theme: papermod
-copyright: Copyright@[咲凌](https://space.bilibili.com/85829166) #显示在页面底部
+copyright: Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) #显示在页面底部
 defaultContentLanguage: zh
 disableHugoGeneratorInject: true #在源代码里看不到hugo生成的标识
 disqusShortname: sallyn #评论功能ID
@@ -29,7 +29,7 @@ menu: #顶栏目录
 params: #主页设置
   homeInfoParams:
     Title: 🙋‍♂️你好，欢迎，我是咲凌。
-    Content: These are my links......
+    Content: These are my links......<br>My Friends' links are [there](/links/)
 
   socialIcons: # optional
     - name: "Bilibili"
@@ -41,8 +41,11 @@ params: #主页设置
   cover: #设置首页封面图
     responsiveImages: false #不启用 加快速度
     linkFullImages: false #可以点开查看大图
-  ShowShareButtons: false #底部显示分享图标
-  ShowReadingTime: false #显示阅读时间
+  ShowShareButtons: true #底部显示分享图标
+  ShareButtons:
+  - x
+  - telegram
+  #显示阅读时间，目前有问题 ShowReadingTime: false
   ShowBreadCrumbs: true #类似文件夹的路径显示格式
   ShowPostNavLinks: true #显示上一篇下一篇切换按钮
   author: ["咲凌"]
@@ -54,7 +57,17 @@ params: #主页设置
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.png"
-    disableFingerprinting: true #修复附件不加载？
+  editPost: #建议修改
+    URL: "https://github.com/Sallyn0225/e-garden/tree/main/content"
+    Text: "提出问题" # edit text
+    appendFilePath: true # to append file path to Edit link
+  title: '咲凌的数字花园'
+  description: '日常生活记录、实用文章分享、临时想法记录、部分repo'
+  author: ['咲凌']
+  DateFormat: '2006-01-02'
+  showtoc: true
+  # 字数统计，目前有问题 ShowWordCount: false 
+  UseHugoToc: true
 
 outputs: #搜索页面
   home:
