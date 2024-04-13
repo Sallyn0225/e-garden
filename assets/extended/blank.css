@@ -1,0 +1,22 @@
+.post-single img {
+    margin: auto;
+}
+
+.post-single img,
+.post-single pre {
+    border-radius: 0.3em;
+}
+
+.article-container {
+    background-color: var(--entry);
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: var(--radius);
+}
+
+
+
+.comment-head {
+    font-size: 14px;
+    margin-bottom: -14px;
+}

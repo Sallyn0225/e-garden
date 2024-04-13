@@ -38,9 +38,16 @@ params: #主页设置
       url: "https://sallyn.site"
     - name: "Twitter"
       url: "https://twitter.com/XiaoLing_Arisa"
+  
   cover: #设置首页封面图
     responsiveImages: false #不启用 加快速度
     linkFullImages: false #可以点开查看大图
+    hidden: true
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+  # 给图片增加 CDN 前缀
+  ImageCDN: "https://cdn.jsdelivr.net/gh/Sallyn0225/e-garden/static" 
+  
   ShowShareButtons: true #底部显示分享图标
   ShareButtons:
   - x
@@ -48,28 +55,54 @@ params: #主页设置
   #显示阅读时间，目前有问题 ShowReadingTime: false
   ShowBreadCrumbs: true #类似文件夹的路径显示格式
   ShowPostNavLinks: true #显示上一篇下一篇切换按钮
+  
   author: ["咲凌"]
   comments: false #开启评论功能
   env: production
+  
   assets: #网站图标
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.png"
+  
   editPost: #建议修改
     URL: "https://github.com/Sallyn0225/e-garden/tree/main/content"
     Text: "提出问题" # edit text
     appendFilePath: true # to append file path to Edit link
+  
   title: '咲凌的数字花园'
   description: '日常生活记录、实用文章分享、临时想法记录、部分repo'
   author: ['咲凌']
+  
   DateFormat: '2006-01-02'
   showtoc: true
   # 字数统计，目前有问题 ShowWordCount: false 
   UseHugoToc: true
   hideDescription: true
-  hideSummary: true
+  hideSummary: false
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  markup:
+  goldmark:
+    extensions:
+      # 禁用 Hugo 将英文单引号转为 &rsquo
+      typographer: false
+# highlight:
+#   noClasses: false
+#   anchorLineNos: true
+#   codeFences: true
+#   guessSyntax: true
+#   lineNos: true
+#   style: monokai
 
 outputs: #搜索页面
   home:
