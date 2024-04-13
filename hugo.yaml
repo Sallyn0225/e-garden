@@ -1,11 +1,12 @@
 baseURL: https://sallyn.netlify.app
-languageCode: zh
+languageCode: zh-cn
 title: 咲凌的数字花园
 theme: papermod
 copyright: Copyright@[咲凌](https://space.bilibili.com/85829166) #显示在页面底部
-defaultContentLanguage: zh
+defaultContentLanguage: zh-cn
 disableHugoGeneratorInject: true #在源代码里看不到hugo生成的标识
-disqusShortname: sallyn
+disqusShortname: sallyn #评论功能ID
+
 menu: #顶栏目录
   main:
     - identifier:
@@ -24,6 +25,7 @@ menu: #顶栏目录
       name: 分类
       url: /categories/
       weight: 20
+
 params: #主页设置
   homeInfoParams:
     Title: 🙋‍♂️你好，欢迎，我是咲凌。
@@ -39,26 +41,26 @@ params: #主页设置
   cover: #设置首页封面图
     responsiveImages: false #不启用 加快速度
     linkFullImages: false #可以点开查看大图
-  ShowShareButtons: true #底部显示分享图标
-  ShowReadingTime: true #显示阅读时间
+  ShowShareButtons: false #底部显示分享图标
+  ShowReadingTime: false #显示阅读时间
   ShowBreadCrumbs: true #类似文件夹的路径显示格式
   ShowPostNavLinks: true #显示上一篇下一篇切换按钮
   author: ["咲凌"]
-  comments: true #开启评论功能
+  comments: false #开启评论功能
   env: production
+  assets: #网站图标
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
 outputs: #搜索页面
   home:
     - HTML
     - RSS
     - JSON # necessary for search
-cover: #封面设置
-  image: "<image path/url>"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-services:
+services: #评论功能
   disqus:
     shortname: sallyn
 sitemap: #站点地图
