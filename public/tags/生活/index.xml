@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>生活 on 咲凌的数字花园</title>
-    <link>https://sallyn.netlify.app/tags/%E7%94%9F%E6%B4%BB/</link>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
     <lastBuildDate>Mon, 25 Dec 2023 20:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sallyn.netlify.app/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【攻略向/长文】如何从零开始跑一次现地live</title>
-      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
       <pubDate>Mon, 25 Dec 2023 20:00:00 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
       <description>前言 本篇文章旨在根据已有的攻略上，进行整合和小更新，让第一次跑live的朋友们有一个大致的了解。半攻略和半记录是因为主笔并没有实际跑过现地，只是基于在疫情后跑过现地的朋友提供的信息对原有的攻略进行一定程度的完善和整合。欢迎真正跑过现地的佬进行纠正。
 流程 本文将分为以下几个方面进行介绍
 相关证件的准备工作
