@@ -10,7 +10,7 @@ paginate: 10
 
 enableRobotsTXT: true
 buildDrafts: true
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
 minify:
