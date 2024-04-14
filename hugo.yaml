@@ -1,121 +1,103 @@
-baseURL: "https://sallyn.netlify.app/"
+baseURL: https://sallyn.netlify.app
+languageCode: zh
 title: 咲凌的数字花园
-paginate: 10
 theme: papermod
-languageCode: zh-cn
+copyright: Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) #显示在页面底部
+defaultContentLanguage: zh
+disableHugoGeneratorInject: true #在源代码里看不到hugo生成的标识
+disqusShortname: sallyn #评论功能ID
+paginate: 10
 
 enableRobotsTXT: true
 buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: ""
-
 minify:
   disableXML: true
   minifyOutput: true
 
-copyright: Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: PrintLove
-  description: "日常生活记录、实用文章分享、临时想法记录、部分repo"
-  keywords: ["咲凌", "Sallyn", "博客", "blog", "周记", "干货", "repo"]
-  author: ["咲凌"]
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "2006-01-02"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+menu: #顶栏目录
+  main:
+    - identifier:
+      name: 时间线
+      url: /archives/
+      weight: 10
+    - identifier:
+      name: 🔍
+      url: /search/
+      weight: 30
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 25
+    - identifier: categories
+      name: 分类
+      url: /categories/
+      weight: 20
+
+params: #主页设置
+  homeInfoParams: #主页的标题和说明
+    Title: 🙋‍♂️你好，欢迎，我是咲凌。
+    Content: These are my links......<br>My Friends' links are [there](/links/)
+
+  socialIcons: # optional
+    - name: "X"
+      url: "https://twitter.com/XiaoLing_Arisa"
+    - name: "Bilibili"
+      url: "https://space.bilibili.com/85829166"
+    - name: "我的博客"
+      url: "https://sallyn.site"
+  
+  cover: #设置首页封面图
+    responsiveImages: false #不启用 加快速度
+    linkFullImages: false #可以点开查看大图
+    hidden: true
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+  
   # 给图片增加 CDN 前缀
   ImageCDN: "https://cdn.jsdelivr.net/gh/Sallyn0225/e-garden/static" 
-  ShowReadingTime: false
-  ShowShareButtons: true
-  # 支持分享的平台 X / facebook / reddit / telegram / whatsapp / ycombinator / linkedin
+  
+  ShowShareButtons: true #底部显示分享图标
   ShareButtons:
-    - x
-    - email
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: false
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  # 是否展示 uv、pv
-  ViewCount: false 
-  # 是否开启百度统计
-  BaiduAnalytics: ""
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  hideDescription: true
-  showtoc: true
-  tocopen: false
-  # 网站左上角的文字和图标配置
-  label:
-    text: 
-    iconSVG:
-
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+  - x
+  - email
+  #显示阅读时间，目前有问题 ShowReadingTime: false
+  ShowBreadCrumbs: true #类似文件夹的路径显示格式
+  ShowPostNavLinks: true #显示上一篇下一篇切换按钮
+  ShowCodeCopyButtons: true #开启代码复制按钮
+  ShowRssButtonInSectionTermList: true #archive页面的RSS按钮
+  
+  author: ["咲凌"]
+  comments: false #开启评论功能
+  env: production
+  
+  assets: #网站图标
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.png"
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "🙋‍♂️你好，欢迎，我是咲凌。"
-    Content: "These are my links......<br>My Friends' links are [there](/links/)"
-
-  socialIcons:
-    - name: Twitter
-      url: "https://twitter.com/XiaoLing_Arisa"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
-    - name: bilibili
-      url: "https://space.bilibili.com/85829166"
-    - name: 我的博客
-      url: "https://sallyn.site"
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
+  
+  editPost: #建议修改
     URL: "https://github.com/Sallyn0225/e-garden/tree/main/content"
-    Text: "指出问题" # edit text
+    Text: "提出问题" # edit text
     appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
+  
+  title: '咲凌的数字花园'
+  description: '日常生活记录、实用文章分享、临时想法记录、部分repo'
+  author: ['咲凌']
+  keywords: ["咲凌", "Sallyn", "博客", "blog", "周记", "干货", "repo"]
+  
+  DateFormat: '2006-01-02'
+  
+  showtoc: true
+  # 字数统计，目前有问题 ShowWordCount: false 
+  UseHugoToc: true
+  hideDescription: true
+  hideSummary: false
+  
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -125,33 +107,8 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-
-# 选择languages字段的哪个语言，默认 en
-defaultContentLanguage: zh
-languages:
-  zh:
-    menu:
-      main:
-        - identifier:
-          name: 时间线
-          url: /archives/
-          weight: 10
-        - identifier:
-          name: 🔍
-          url: /search/
-          weight: 30
-        - identifier: tags
-          name: 标签
-          url: /tags/
-          weight: 25
-        - identifier: categories
-          name: 分类
-          url: /categories/
-          weight: 20
-          
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-markup:
+  
+  markup:
   goldmark:
     extensions:
       # 禁用 Hugo 将英文单引号转为 &rsquo
@@ -164,6 +121,17 @@ markup:
 #   lineNos: true
 #   style: monokai
 
-taxonomies:
-  tag: tags
-  series: series
+outputs: #搜索页面
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+services: #评论功能
+  disqus:
+    shortname: sallyn
+
+sitemap: #站点地图
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1

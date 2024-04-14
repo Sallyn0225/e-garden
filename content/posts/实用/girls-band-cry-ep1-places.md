@@ -11,7 +11,7 @@ keywords:
   - 闺泣
   - ガールズバンドクライ
 description: 本文章介绍了ガールズバンドクライ第一话的大部分圣地。
-ShowToc: 
+showtoc: true
 share: true
 cover:
   image: https://s2.loli.net/2024/04/12/iLjQgZTnFseMqwf.webp
