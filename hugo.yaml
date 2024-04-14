@@ -55,7 +55,7 @@ params: #主页设置
     hidden: true
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: true # hide on single page
-    defaultImage: https://s2.loli.net/2024/04/14/FuWbeAVHjwztYPn.webp
+    defaultImage: https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?q=60&w=400&fm=webp&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   
   # 给图片增加 CDN 前缀
   ImageCDN: "https://cdn.jsdelivr.net/gh/Sallyn0225/e-garden/static" 
@@ -80,6 +80,7 @@ params: #主页设置
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.png"
+    disableHLJS: true
   
   editPost: #建议修改
     URL: "https://github.com/Sallyn0225/e-garden/tree/main/content"
@@ -110,6 +111,13 @@ params: #主页设置
     keys: ["title", "permalink", "summary", "content"]
   
   markup:
+    highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    style: monokai
   goldmark:
     extensions:
       # 禁用 Hugo 将英文单引号转为 &rsquo

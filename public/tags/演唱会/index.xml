@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>演唱会 on 咲凌的数字花园</title>
-    <link>https://sallyn.netlify.app/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</link>
+    <link>http://localhost:1313/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</link>
     <description>Recent content in 演唱会 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
     <lastBuildDate>Thu, 11 Apr 2024 22:31:00 +0000</lastBuildDate>
-    <atom:link href="https://sallyn.netlify.app/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>虽有不足但观感十足——MyGO爱知场观后感</title>
-      <link>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-04-11-mygo%E7%88%B1%E7%9F%A5%E5%9C%BA%E8%A7%82%E5%90%8E%E6%84%9F/</link>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-04-11-mygo%E7%88%B1%E7%9F%A5%E5%9C%BA%E8%A7%82%E5%90%8E%E6%84%9F/</link>
       <pubDate>Thu, 11 Apr 2024 22:31:00 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-04-11-mygo%E7%88%B1%E7%9F%A5%E5%9C%BA%E8%A7%82%E5%90%8E%E6%84%9F/</guid>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-04-11-mygo%E7%88%B1%E7%9F%A5%E5%9C%BA%E8%A7%82%E5%90%8E%E6%84%9F/</guid>
       <description>咲凌在 4.11 观看 MyGO 爱知场巡演后的一些感想。</description>
     </item>
     <item>
       <title>【攻略向/长文】如何从零开始跑一次现地live</title>
-      <link>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
       <pubDate>Mon, 25 Dec 2023 20:00:00 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
       <description>前言 本篇文章旨在根据已有的攻略上，进行整合和小更新，让第一次跑live的朋友们有一个大致的了解。半攻略和半记录是因为主笔并没有实际跑过现地，只是基于在疫情后跑过现地的朋友提供的信息对原有的攻略进行一定程度的完善和整合。欢迎真正跑过现地的佬进行纠正。
 流程 本文将分为以下几个方面进行介绍
 相关证件的准备工作
@@ -52,9 +52,9 @@ Live当日
     </item>
     <item>
       <title>观黑柿子mini live「日々」有感</title>
-      <link>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/repo-to-hibi-live/</link>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/repo-to-hibi-live/</link>
       <pubDate>Sun, 24 Dec 2023 19:30:29 +0000</pubDate>
-      <guid>https://sallyn.netlify.app/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/repo-to-hibi-live/</guid>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/repo-to-hibi-live/</guid>
       <description>昨晚是冬至的后一日，想到晚上6点便是国内柿子配信开始的时间，于是草草把汤圆煮了趁还有10分钟的时候开始蹲守油管直播间。
 PART A. 和预想中的一样，柿子先从秋田叔的季節は次々死んでいく开始，便猜到了先是之前已经投稿过的6首翻唱。虽然已经听过一遍，但live中每首歌曲的衔接和每个人带着礼物入场的形式不得不说看的又温馨又好玩。在六首翻唱唱完后，来的居然是老朋友菇和老女儿（什）花谱的曲子。
 柿子什么时候才能以个人名义和花谱再一起唱一次歌啊😭本以为这就是免费live的所有内容了，顶多再来一手encore或者新曲，没想到柿子藏的东西实在太多。
