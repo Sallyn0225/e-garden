@@ -48,6 +48,8 @@ params: #主页设置
       url: "https://space.bilibili.com/85829166"
     - name: "我的博客"
       url: "https://sallyn.site"
+
+  analytics.google.SiteVerificationTag: "G-Z36Z4W7YXZ"
   
   cover: #设置首页封面图
     responsiveImages: false #不启用 加快速度

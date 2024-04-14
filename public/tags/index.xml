@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 咲凌的数字花园</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sallyn.site/tags/</link>
     <description>Recent content in Tags on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
     <lastBuildDate>Sun, 14 Apr 2024 11:20:30 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sallyn.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>粘土人</title>
-      <link>http://localhost:1313/tags/%E7%B2%98%E5%9C%9F%E4%BA%BA/</link>
+      <link>https://sallyn.site/tags/%E7%B2%98%E5%9C%9F%E4%BA%BA/</link>
       <pubDate>Sun, 14 Apr 2024 11:20:30 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%B2%98%E5%9C%9F%E4%BA%BA/</guid>
+      <guid>https://sallyn.site/tags/%E7%B2%98%E5%9C%9F%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>Repo</title>
-      <link>http://localhost:1313/tags/repo/</link>
+      <link>https://sallyn.site/tags/repo/</link>
       <pubDate>Thu, 11 Apr 2024 22:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/repo/</guid>
+      <guid>https://sallyn.site/tags/repo/</guid>
       <description></description>
     </item>
     <item>
       <title>演唱会</title>
-      <link>http://localhost:1313/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</link>
+      <link>https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</link>
       <pubDate>Thu, 11 Apr 2024 22:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</guid>
+      <guid>https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/</guid>
       <description></description>
     </item>
     <item>
       <title>周报</title>
-      <link>http://localhost:1313/tags/%E5%91%A8%E6%8A%A5/</link>
+      <link>https://sallyn.site/tags/%E5%91%A8%E6%8A%A5/</link>
       <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%91%A8%E6%8A%A5/</guid>
+      <guid>https://sallyn.site/tags/%E5%91%A8%E6%8A%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>动漫</title>
-      <link>http://localhost:1313/tags/%E5%8A%A8%E6%BC%AB/</link>
+      <link>https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/</link>
       <pubDate>Sun, 07 Apr 2024 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%8A%A8%E6%BC%AB/</guid>
+      <guid>https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>旅行</title>
-      <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</link>
+      <link>https://sallyn.site/tags/%E6%97%85%E8%A1%8C/</link>
       <pubDate>Sat, 23 Mar 2024 19:23:48 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</guid>
+      <guid>https://sallyn.site/tags/%E6%97%85%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>生活</title>
-      <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+      <link>https://sallyn.site/tags/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Sat, 23 Mar 2024 19:23:48 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://sallyn.site/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>VRChat</title>
-      <link>http://localhost:1313/tags/vrchat/</link>
+      <link>https://sallyn.site/tags/vrchat/</link>
       <pubDate>Thu, 28 Dec 2023 16:50:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vrchat/</guid>
+      <guid>https://sallyn.site/tags/vrchat/</guid>
       <description></description>
     </item>
     <item>
       <title>游戏</title>
-      <link>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</link>
+      <link>https://sallyn.site/tags/%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Thu, 28 Dec 2023 16:50:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <guid>https://sallyn.site/tags/%E6%B8%B8%E6%88%8F/</guid>
       <description></description>
     </item>
   </channel>
