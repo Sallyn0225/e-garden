@@ -148,4 +148,4 @@ sitemap: #站点地图
   priority: -1
 
 permalinks:
-  posts: /:slug/
+  posts: /:slugorfilename/
