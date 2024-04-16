@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>实用 on 咲凌的数字花园</title>
-    <link>https://sallyn.site/categories/%E5%AE%9E%E7%94%A8/</link>
+    <link>http://localhost:1313/categories/%E5%AE%9E%E7%94%A8/</link>
     <description>Recent content in 实用 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
-    <lastBuildDate>Sun, 14 Apr 2024 11:20:30 +0000</lastBuildDate>
-    <atom:link href="https://sallyn.site/categories/%E5%AE%9E%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2024 12:16:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%AE%9E%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用谷歌地图建立你自己的圣巡list</title>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Mon, 15 Apr 2024 12:16:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/</guid>
+      <description>想要进行圣地巡礼但是无从下手？找不到圣地巡礼的地点？或是找好了位置但是不方便对比番剧和实际画面？这篇文章会告诉你怎么使用谷歌地图做好巡礼前的准备</description>
+    </item>
     <item>
       <title>如何从零开始养一只娃</title>
-      <link>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/%E5%A6%82%E4%BD%95%E5%85%BB%E4%B8%80%E5%8F%AA%E5%A8%83/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%A6%82%E4%BD%95%E5%85%BB%E4%B8%80%E5%8F%AA%E5%A8%83/</link>
       <pubDate>Sun, 14 Apr 2024 11:20:30 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/%E5%A6%82%E4%BD%95%E5%85%BB%E4%B8%80%E5%8F%AA%E5%A8%83/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%A6%82%E4%BD%95%E5%85%BB%E4%B8%80%E5%8F%AA%E5%A8%83/</guid>
       <description>本贴记录我在组装一个GSC粘土人时候搜到的相关教学并整理了一下。主要包括一个娃的构成、娃身体类型、娃衣和相关配件的介绍。</description>
     </item>
     <item>
       <title>GBC第一话 圣地考究（非完整版）</title>
-      <link>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
       <pubDate>Sat, 06 Apr 2024 12:15:00 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
       <description>本文章介绍了ガールズバンドクライ第一话的大部分圣地。</description>
     </item>
     <item>
       <title>怎样提高VRChat的游玩体验</title>
-      <link>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</link>
       <pubDate>Wed, 27 Dec 2023 19:55:47 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/vrchat-guide/</guid>
       <description>引言 临近23年年末，突然发现自己的VRChat游玩已经过去了一年的时间。
 虽说今年下半年几乎一直在打CS2，但是自己的VRChat游戏时长也有接近1600小时了。说多不多，说少不少。刚好年末，把自己之前游玩的一个流程记录一下。所谓create, share, play是VRChat的slogen，那么现在该回到share和create的环节了
 我想从大概两个部分开始说起，一个是游戏内部的一些设置，有的可以提升你的游戏体验，有的则是藏的比较深的功能开关。另一个是第三方的软件，可以让你游玩时候的体验能够更上一层楼
@@ -68,9 +75,9 @@ Yukarinette Connector Neo 官网
     </item>
     <item>
       <title>【攻略向/长文】如何从零开始跑一次现地live</title>
-      <link>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</link>
       <pubDate>Mon, 25 Dec 2023 20:00:00 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/live-abroad-guide/</guid>
       <description>前言 本篇文章旨在根据已有的攻略上，进行整合和小更新，让第一次跑live的朋友们有一个大致的了解。半攻略和半记录是因为主笔并没有实际跑过现地，只是基于在疫情后跑过现地的朋友提供的信息对原有的攻略进行一定程度的完善和整合。欢迎真正跑过现地的佬进行纠正。
 流程 本文将分为以下几个方面进行介绍
 相关证件的准备工作

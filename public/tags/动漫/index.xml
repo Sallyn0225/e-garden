@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>动漫 on 咲凌的数字花园</title>
-    <link>https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/</link>
+    <link>http://localhost:1313/tags/%E5%8A%A8%E6%BC%AB/</link>
     <description>Recent content in 动漫 on 咲凌的数字花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
-    <lastBuildDate>Sun, 07 Apr 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2024 12:16:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8A%A8%E6%BC%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用谷歌地图建立你自己的圣巡list</title>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Mon, 15 Apr 2024 12:16:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/</guid>
+      <description>想要进行圣地巡礼但是无从下手？找不到圣地巡礼的地点？或是找好了位置但是不方便对比番剧和实际画面？这篇文章会告诉你怎么使用谷歌地图做好巡礼前的准备</description>
+    </item>
     <item>
       <title>2024年1月新番后评</title>
-      <link>https://sallyn.site/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-01-anime-comment/</link>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-01-anime-comment/</link>
       <pubDate>Sun, 07 Apr 2024 15:00:00 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-01-anime-comment/</guid>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2024-01-anime-comment/</guid>
       <description>正文 现在已经是2024年4月，在昨天看完了GBC和夜晚水母不会游泳之后，突然想起来2024年1月的新番完结了但是我还没有写观影repo。还好这个季度的新番我仅仅只看了三部，其中有很多还是24集上下两季的片子，所以总体来说，包含了上一季的大部分内容，而其他的新番实力也十分强劲
 迷宫饭 8/10 这部番其实是一部漫改作品。因为很早就听说漫画的评价之高，所以当时我第一集出了就追了。本以为会是一个讲述冒险的故事，但就和名字一样，本质是在迷宫里做饭的番。迷宫家的饭
 不过说是这么说，不如说做饭是明线，而冒险是暗线。明线是每集随着和不同魔物战斗的同时把魔物拿来做饭，暗线则是在随着迷宫攻略进度推进的同时，一点点往救出妹妹的路上前进，同时揭开迷宫的本质。
@@ -35,16 +42,16 @@
     </item>
     <item>
       <title>GBC第一话 圣地考究（非完整版）</title>
-      <link>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
+      <link>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</link>
       <pubDate>Sat, 06 Apr 2024 12:15:00 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
+      <guid>http://localhost:1313/posts/%E5%AE%9E%E7%94%A8/girls-band-cry-ep1-places/</guid>
       <description>本文章介绍了ガールズバンドクライ第一话的大部分圣地。</description>
     </item>
     <item>
       <title>2023年10月新番后评</title>
-      <link>https://sallyn.site/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2023-10-anime-comment/</link>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2023-10-anime-comment/</link>
       <pubDate>Sun, 24 Dec 2023 13:25:39 +0000</pubDate>
-      <guid>https://sallyn.site/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2023-10-anime-comment/</guid>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2023-10-anime-comment/</guid>
       <description>前言 随着2023年即将迎来它的尾声，今年十月新番也迎来该完结的时候。这个季度我一共追了大概有接近10来部番剧，开坑的基本上都差一两集都完结了（除开半年番的芙莉莲）这个季度相比上个季度能看的番剧感觉确实是多了不少，但是也存在部分番剧高开低走和某些漫改把原作毁的一塌糊涂的情况。因为记性不好所以恐怕没办法把所有看完的番的每一集剧情都一一回想起来，所以每个番大概率都会挑出我印象最深的部分来写写东西。
 既然这样，先列一下我看了什么好了。
 葬送的芙莉莲 超超超超超喜欢你的100个女朋友 16bit的感动 ANOTHER LAYER 女友成双 第二季 家里蹲吸血姬的苦闷 猪肝记得煮熟再吃 经验丰富的你和经验为零的我交往的故事 我们的雨色协议 将会从三个等级来讨论上面几部番剧。
