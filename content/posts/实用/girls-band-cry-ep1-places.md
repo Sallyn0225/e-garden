@@ -1,5 +1,6 @@
 ---
 title: GBC第一话 圣地考究（非完整版）
+slug: girls-band-cry-ep01-places
 date: 2024-04-06 12:15:00
 tags:
   - 动漫
