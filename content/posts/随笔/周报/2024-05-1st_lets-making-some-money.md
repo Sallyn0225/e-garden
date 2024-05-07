@@ -14,7 +14,7 @@ keywords:
   - 双人成行
   - 同人
 cover:
-  image: /images/IMG_20240415_234419. webp
+  image: /images/IMG_20240415_234419.webp
 share: true
 dir: posts/随笔/周报
 ---
