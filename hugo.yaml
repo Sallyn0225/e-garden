@@ -37,6 +37,8 @@ menu: #顶栏目录
       weight: 20
 
 params: #主页设置
+  ShowFullTextinRSS: true # RSS全文显示
+  
   homeInfoParams: #主页的标题和说明
     Title: 🙋‍♂️你好，欢迎，我是咲凌。
     Content: These are my links......<br>My Friends' links are [there](/links/)
