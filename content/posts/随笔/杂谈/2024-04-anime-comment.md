@@ -17,7 +17,7 @@ keywords:
   - girls band cry
   - 夜晚的水母不会游泳
 cover:
-  image: https://s2.loli.net/2024/06/21/2ilcB48xnkWO9J7.webp
+  image: /images/2024-04-anime-comment-20240621115256983.webp
 share: true
 dir: posts/随笔/杂谈
 ---
