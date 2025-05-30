@@ -14,7 +14,7 @@ keywords:
   - 78酱
   - 炸鸡船
 cover:
-  image: 
+  image: /images/Image_1748268629137.webp
 share: true
 dir: posts/随笔/旅行后记
 ---
